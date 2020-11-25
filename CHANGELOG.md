@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-storage?activeTab=versions
 
+### [5.5.1](https://www.github.com/googleapis/nodejs-storage/compare/v5.5.0...v5.5.1) (2020-11-25)
+
+
+### Bug Fixes
+
+* **docs:** explain manual pagination and add usage sample ([#1317](https://www.github.com/googleapis/nodejs-storage/issues/1317)) ([16b779d](https://www.github.com/googleapis/nodejs-storage/commit/16b779de912f6ac082ec5ee3d904b125a5526485))
+
 ## [5.5.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.4.0...v5.5.0) (2020-11-03)
 
 
